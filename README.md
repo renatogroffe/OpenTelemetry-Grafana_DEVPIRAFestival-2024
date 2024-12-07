@@ -355,3 +355,7 @@ Geração de Spans:
 
         return resultado;
 ```
+
+### Exemplo com Trace + Logs
+
+aaaa
