@@ -358,4 +358,8 @@ Geração de Spans:
 
 ### Exemplo com Trace + Logs
 
-aaaa
+Visualizando um Span, com a possibilidade de consulta aos logs:
+
+![trace + span](docs/loki-01.png)
+
+![logs loki](docs/loki-02.png)
