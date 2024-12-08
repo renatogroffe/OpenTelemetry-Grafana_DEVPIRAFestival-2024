@@ -362,4 +362,10 @@ Visualizando um Span, com a possibilidade de consulta aos logs:
 
 ![trace + span](docs/loki-01.png)
 
+Consultando os logs de um Span:
+
 ![logs loki](docs/loki-02.png)
+
+Grafo gerado automaticamente pelo Grafana, contendo as dependências envolvidas numa amostragem de traces:
+
+![grafo dependencias](docs/graph-01.png)
