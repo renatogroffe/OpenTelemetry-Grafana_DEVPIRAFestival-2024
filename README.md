@@ -3,11 +3,25 @@ Conteúdos sobre OpenTelemetry + Grafana de apresentação realizada durante a e
 
 ---
 
+Título da apresentação: **Observabilidade e Monitoramento de Aplicações com OpenTelemetry + stack Grafana**
+
+Data: **07/12/2024 (sábado)**
+
+Tecnologias e tópicos abordados: **Containers, Docker, Testcontainers, .NET 9, SQL Server, PostgreSQL, DevOps, Testes de Integração, Docker Compose, Linux, Azure DevOps, Azure Pipelines, GitHub Actions, Python, Java, Node.js...**
+
+Número de participantes: **50 pessoas (estimativa)**
+
 O DEVPIRA Festival é um evento presencial promovido pelo pessoal do DEVPIRA, uma das comunidades técnicas mais ativas do interior de São Paulo. A cada são centenas de participantes e dezenas de palestrantes, abordando tecnologias e práticas em alta no mercado de tecnologia.
 
 Site do evento: **https://www.devpira.com.br/eventos/devpira-festival-2024**
 
 Local: PECEGE - Rua Cezira Giovanoni Moretti, 580 - Santa Rosa - Piracicaba - SP - CEP: 13414-157
+
+---
+
+![Divulgação](img/divulgacao.png)
+
+![Divulgação](img/programacao.png)
 
 ---
 
