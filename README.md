@@ -7,7 +7,7 @@ Título da apresentação: **Observabilidade e Monitoramento de Aplicações com
 
 Data: **07/12/2024 (sábado)**
 
-Tecnologias e tópicos abordados: **Containers, Docker, Testcontainers, .NET 9, SQL Server, PostgreSQL, DevOps, Testes de Integração, Docker Compose, Linux, Azure DevOps, Azure Pipelines, GitHub Actions, Python, Java, Node.js...**
+Tecnologias e tópicos abordados: **OpenTelemetry, Grafana, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, .NET, ASP.NET Core...**
 
 Número de participantes: **50 pessoas (estimativa)**
 
@@ -26,6 +26,12 @@ Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**
 ![Renato palestrando 2](img/og-10.jpeg)
 
 ![Renato palestrando 3](img/og-11.jpeg)
+
+![Renato palestrando 4](img/og-03.jpeg)
+
+![Renato palestrando 5](img/og-01.jpeg)
+
+![Renato palestrando 5](img/og-02.jpeg)
 
 ![Divulgação](img/divulgacao.png)
 
