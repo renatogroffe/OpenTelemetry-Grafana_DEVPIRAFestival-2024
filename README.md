@@ -3,6 +3,8 @@ Conteúdos sobre OpenTelemetry + Grafana de apresentação realizada durante a e
 
 ---
 
+O DEVPIRA Festival é um evento presencial promovido pelo pessoal do DEVPIRA, uma das comunidades técnicas mais ativas do interior de São Paulo. A cada são centenas de participantes e dezenas de palestrantes, abordando tecnologias e práticas em alta no mercado de tecnologia.
+
 Site do evento: **https://www.devpira.com.br/eventos/devpira-festival-2024**
 
 Local: PECEGE - Rua Cezira Giovanoni Moretti, 580 - Santa Rosa - Piracicaba - SP - CEP: 13414-157
