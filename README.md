@@ -17,11 +17,21 @@ Site do evento: **https://www.devpira.com.br/eventos/devpira-festival-2024**
 
 Local: PECEGE - Rua Cezira Giovanoni Moretti, 580 - Santa Rosa - Piracicaba - SP - CEP: 13414-157
 
+Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DEVPIRA Festival**.
+
 ---
+
+![Renato palestrando 1](img/og-09.jpeg)
+
+![Renato palestrando 2](img/og-10.jpeg)
+
+![Renato palestrando 3](img/og-11.jpeg)
 
 ![Divulgação](img/divulgacao.png)
 
-![Divulgação](img/programacao.png)
+![Programação](img/programacao.png)
+
+Outras fotos podem ser encontrados neste [**diretório**](/img/).
 
 ---
 
