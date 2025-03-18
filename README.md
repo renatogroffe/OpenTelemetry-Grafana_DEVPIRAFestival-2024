@@ -1,6 +1,14 @@
 # OpenTelemetry-Grafana_DEVPIRAFestival-2024
 Conteúdos sobre OpenTelemetry + Grafana de apresentação realizada durante a edição 2024 do DEVPIRA Festival.
 
+---
+
+Site do evento: **https://www.devpira.com.br/eventos/devpira-festival-2024**
+
+Local: PECEGE - Rua Cezira Giovanoni Moretti, 580 - Santa Rosa - Piracicaba - SP - CEP: 13414-157
+
+---
+
 ## Implementação - Detalhes
 
 ### Ambiente - Docker Compose
