@@ -15,7 +15,7 @@ O DEVPIRA Festival é um evento presencial promovido pelo pessoal do DEVPIRA, um
 
 Site do evento: **https://www.devpira.com.br/eventos/devpira-festival-2024**
 
-Local: **PECEGE - Rua Cezira Giovanoni Moretti, 580 - Santa Rosa - Piracicaba - SP - CEP: 13414-157**
+Local: **PECEGE - Rua Cezira Giovanoni Moretti, 580 - Santa Rosa - Piracicaba-SP - CEP: 13414-157**
 
 Deixo aqui meus agradecimentos ao **Alexandre Ballestero**, ao **Fábio Baldin**, ao **Murilo Beltrame** e demais organizadores por todo o apoio para que eu partipasse como palestrante de mais uma edição do **DEVPIRA Festival**.
 
